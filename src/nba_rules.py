@@ -8,13 +8,14 @@ marks rules used by the SmartSFR project.
 """
 
 
-def calculate_total_students(ug1, ug2, ug3, pg1, pg2):
+def calculate_total_students(ug2, ug3, ug4, pg1, pg2):
     """
-    Calculate total students according to NBA Section 4.1.
+    Calculate the total number of students considered for SFR.
 
-    S = UG1 + UG2 + UG3 + PG1 + PG2
+    First-year UG students are excluded according to the
+    current project interpretation of the NBA template.
     """
-    return ug1 + ug2 + ug3 + pg1 + pg2
+    return ug2 + ug3 + ug4 + pg1 + pg2
 
 
 def calculate_sfr(total_students, faculty_count):
