@@ -3,10 +3,305 @@ CAY,F001,Assistant Professor,Regular,Yes,No
 CAY,F002,Assistant Professor,Regular,Yes,No
 CAY,F003,Associate Professor,Regular,Yes,No
 CAY,F004,Assistant Professor,Contractual,Yes,No
+CAY,F005,Assistant Professor,Contractual,Yes,No
+CAY,F006,Assistant Professor,Contractual,Yes,No
+CAY,F007,Assistant Professor,Regular,Yes,No
+CAY,F008,Assistant Professor,Regular,Yes,No
+CAY,F009,Professor,Regular,Yes,No
+CAY,F010,Assistant Professor,Regular,Yes,No
+CAY,F011,Assistant Professor,Regular,Yes,No
+CAY,F012,Assistant Professor,Regular,Yes,No
+CAY,F013,Associate Professor,Regular,Yes,No
+CAY,F014,Assistant Professor,Regular,Yes,No
+CAY,F015,Assistant Professor,Regular,Yes,No
+CAY,F016,Assistant Professor,Regular,Yes,No
+CAY,F017,Assistant Professor,Regular,Yes,No
+CAY,F018,Assistant Professor,Regular,Yes,No
+CAY,F019,Assistant Professor,Contractual,Yes,No
+CAY,F020,Associate Professor,Regular,Yes,No
+CAY,F021,Assistant Professor,Regular,Yes,No
+CAY,F022,Assistant Professor,Regular,Yes,No
+CAY,F023,Assistant Professor,Regular,Yes,No
+CAY,F024,Assistant Professor,Regular,Yes,No
+CAY,F025,Assistant Professor,Regular,Yes,No
+CAY,F026,Assistant Professor,Regular,Yes,No
+CAY,F027,Associate Professor,Regular,Yes,No
+CAY,F028,Assistant Professor,Regular,Yes,No
+CAY,F029,Assistant Professor,Regular,Yes,No
+CAY,F030,Associate Professor,Regular,Yes,No
+CAY,F031,Assistant Professor,Regular,Yes,No
+CAY,F032,Associate Professor,Contractual,No,No
+CAY,F033,Assistant Professor,Regular,Yes,No
+CAY,F034,Associate Professor,Regular,Yes,No
+CAY,F035,Professor,Regular,Yes,No
+CAY,F036,Assistant Professor,Contractual,No,No
+CAY,F037,Assistant Professor,Regular,Yes,No
+CAY,F038,Assistant Professor,Contractual,Yes,No
+CAY,F039,Associate Professor,Regular,Yes,No
+CAY,F040,Associate Professor,Contractual,No,No
+CAY,F041,Assistant Professor,Regular,Yes,No
+CAY,F042,Assistant Professor,Regular,Yes,No
+CAY,F043,Assistant Professor,Contractual,No,No
+CAY,F044,Associate Professor,Regular,Yes,No
+CAY,F045,Assistant Professor,Regular,Yes,No
+CAY,F046,Assistant Professor,Regular,Yes,No
+CAY,F047,Assistant Professor,Regular,Yes,No
+CAY,F048,Associate Professor,Regular,Yes,No
+CAY,F049,Assistant Professor,Regular,Yes,No
+CAY,F050,Assistant Professor,Regular,Yes,No
+CAY,F051,Assistant Professor,Contractual,No,No
+CAY,F052,Assistant Professor,Regular,Yes,No
+CAY,F053,Assistant Professor,Regular,Yes,No
+CAY,F054,Assistant Professor,Contractual,Yes,No
+CAY,F055,Associate Professor,Regular,Yes,No
+CAY,F056,Professor,Regular,Yes,No
+CAY,F057,Assistant Professor,Regular,Yes,No
+CAY,F058,Assistant Professor,Regular,Yes,No
+CAY,F059,Professor,Regular,Yes,No
+CAY,F060,Assistant Professor,Regular,Yes,No
+CAY,F061,Associate Professor,Regular,Yes,No
+CAY,F062,Assistant Professor,Regular,Yes,No
+CAY,F063,Assistant Professor,Regular,Yes,No
+CAY,F064,Associate Professor,Regular,Yes,No
+CAY,F065,Assistant Professor,Regular,Yes,No
+CAY,F066,Assistant Professor,Regular,Yes,No
+CAY,F067,Assistant Professor,Contractual,Yes,No
+CAY,F068,Assistant Professor,Regular,Yes,No
+CAY,F069,Professor,Regular,Yes,No
+CAY,F070,Assistant Professor,Regular,Yes,No
+CAY,F071,Associate Professor,Regular,Yes,No
+CAY,F072,Associate Professor,Regular,Yes,No
+CAY,F073,Assistant Professor,Contractual,Yes,No
+CAY,F074,Assistant Professor,Contractual,Yes,No
+CAY,F075,Assistant Professor,Regular,Yes,No
+CAY,F076,Professor,Regular,Yes,No
+CAY,F077,Assistant Professor,Regular,Yes,No
+CAY,F078,Assistant Professor,Regular,Yes,No
+CAY,F079,Assistant Professor,Contractual,Yes,No
+CAY,F080,Professor,Regular,Yes,No
+CAY,F081,Assistant Professor,Regular,Yes,No
+CAY,F082,Associate Professor,Regular,Yes,No
+CAY,F083,Assistant Professor,Regular,Yes,No
+CAY,F084,Assistant Professor,Regular,Yes,No
+CAY,F085,Associate Professor,Regular,Yes,No
+CAY,F086,Professor,Regular,Yes,No
+CAY,F087,Professor,Regular,Yes,No
+CAY,F088,Professor,Regular,Yes,No
+CAY,F089,Assistant Professor,Regular,Yes,No
+CAY,F090,Professor,Regular,Yes,No
+CAY,F091,Assistant Professor,Regular,Yes,No
+CAY,F092,Professor,Contractual,Yes,No
+CAY,F093,Assistant Professor,Regular,Yes,No
+CAY,F094,Assistant Professor,Regular,Yes,No
+CAY,F095,Professor,Regular,Yes,No
+CAY,F096,Assistant Professor,Regular,Yes,No
+CAY,F097,Associate Professor,Regular,Yes,No
+CAY,F098,Assistant Professor,Regular,Yes,No
+CAY,F099,Associate Professor,Regular,Yes,No
+CAY,F100,Assistant Professor,Contractual,No,No
+CAY,F101,Professor,Regular,Yes,No
+CAY,F102,Assistant Professor,Regular,Yes,No
+CAY,F103,Assistant Professor,Regular,Yes,Yes
+CAY,F104,Associate Professor,Regular,Yes,Yes
+CAY,F105,Professor,Regular,Yes,Yes
+CAY,F106,Associate Professor,Regular,Yes,Yes
+CAY,F107,Assistant Professor,Regular,Yes,Yes
+CAY,F108,Assistant Professor,Regular,Yes,Yes
 CAYm1,F001,Assistant Professor,Regular,Yes,No
 CAYm1,F002,Assistant Professor,Regular,Yes,No
 CAYm1,F003,Associate Professor,Regular,Yes,No
 CAYm1,F004,Assistant Professor,Contractual,Yes,No
+CAYm1,F005,Assistant Professor,Contractual,Yes,No
+CAYm1,F006,Assistant Professor,Contractual,Yes,No
+CAYm1,F007,Assistant Professor,Regular,Yes,No
+CAYm1,F008,Assistant Professor,Regular,Yes,No
+CAYm1,F009,Professor,Regular,Yes,No
+CAYm1,F010,Assistant Professor,Regular,Yes,No
+CAYm1,F011,Assistant Professor,Regular,Yes,No
+CAYm1,F012,Assistant Professor,Regular,Yes,No
+CAYm1,F013,Associate Professor,Regular,Yes,No
+CAYm1,F014,Assistant Professor,Regular,Yes,No
+CAYm1,F015,Assistant Professor,Regular,Yes,No
+CAYm1,F016,Assistant Professor,Regular,Yes,No
+CAYm1,F017,Assistant Professor,Regular,Yes,No
+CAYm1,F018,Assistant Professor,Regular,Yes,No
+CAYm1,F019,Assistant Professor,Contractual,Yes,No
+CAYm1,F020,Associate Professor,Regular,Yes,No
+CAYm1,F021,Assistant Professor,Regular,Yes,No
+CAYm1,F022,Assistant Professor,Regular,Yes,No
+CAYm1,F023,Assistant Professor,Regular,Yes,No
+CAYm1,F024,Assistant Professor,Regular,Yes,No
+CAYm1,F025,Assistant Professor,Regular,Yes,No
+CAYm1,F026,Assistant Professor,Regular,Yes,No
+CAYm1,F027,Associate Professor,Regular,Yes,No
+CAYm1,F028,Assistant Professor,Regular,Yes,No
+CAYm1,F029,Assistant Professor,Regular,Yes,No
+CAYm1,F030,Associate Professor,Regular,Yes,No
+CAYm1,F031,Assistant Professor,Regular,Yes,No
+CAYm1,F032,Associate Professor,Contractual,No,No
+CAYm1,F033,Assistant Professor,Regular,Yes,No
+CAYm1,F034,Associate Professor,Regular,Yes,No
+CAYm1,F035,Professor,Regular,Yes,No
+CAYm1,F036,Assistant Professor,Contractual,No,No
+CAYm1,F037,Assistant Professor,Regular,Yes,No
+CAYm1,F038,Assistant Professor,Contractual,Yes,No
+CAYm1,F039,Associate Professor,Regular,Yes,No
+CAYm1,F040,Associate Professor,Contractual,No,No
+CAYm1,F041,Assistant Professor,Regular,Yes,No
+CAYm1,F042,Assistant Professor,Regular,Yes,No
+CAYm1,F043,Assistant Professor,Contractual,No,No
+CAYm1,F044,Associate Professor,Regular,Yes,No
+CAYm1,F045,Assistant Professor,Regular,Yes,No
+CAYm1,F046,Assistant Professor,Regular,Yes,No
+CAYm1,F047,Assistant Professor,Regular,Yes,No
+CAYm1,F048,Associate Professor,Regular,Yes,No
+CAYm1,F049,Assistant Professor,Regular,Yes,No
+CAYm1,F050,Assistant Professor,Regular,Yes,No
+CAYm1,F051,Assistant Professor,Contractual,No,No
+CAYm1,F052,Assistant Professor,Regular,Yes,No
+CAYm1,F053,Assistant Professor,Regular,Yes,No
+CAYm1,F054,Assistant Professor,Contractual,Yes,No
+CAYm1,F055,Associate Professor,Regular,Yes,No
+CAYm1,F056,Professor,Regular,Yes,No
+CAYm1,F057,Assistant Professor,Regular,Yes,No
+CAYm1,F058,Assistant Professor,Regular,Yes,No
+CAYm1,F059,Professor,Regular,Yes,No
+CAYm1,F060,Assistant Professor,Regular,Yes,No
+CAYm1,F061,Associate Professor,Regular,Yes,No
+CAYm1,F062,Assistant Professor,Regular,Yes,No
+CAYm1,F063,Assistant Professor,Regular,Yes,No
+CAYm1,F064,Associate Professor,Regular,Yes,No
+CAYm1,F065,Assistant Professor,Regular,Yes,No
+CAYm1,F066,Assistant Professor,Regular,Yes,No
+CAYm1,F067,Assistant Professor,Contractual,Yes,No
+CAYm1,F068,Assistant Professor,Regular,Yes,No
+CAYm1,F069,Professor,Regular,Yes,No
+CAYm1,F070,Assistant Professor,Regular,Yes,No
+CAYm1,F071,Associate Professor,Regular,Yes,No
+CAYm1,F072,Associate Professor,Regular,Yes,No
+CAYm1,F073,Assistant Professor,Contractual,Yes,No
+CAYm1,F074,Assistant Professor,Contractual,Yes,No
+CAYm1,F075,Assistant Professor,Regular,Yes,No
+CAYm1,F076,Professor,Regular,Yes,No
+CAYm1,F077,Assistant Professor,Regular,Yes,No
+CAYm1,F078,Assistant Professor,Regular,Yes,No
+CAYm1,F079,Assistant Professor,Contractual,Yes,No
+CAYm1,F080,Professor,Regular,Yes,No
+CAYm1,F081,Assistant Professor,Regular,Yes,No
+CAYm1,F082,Associate Professor,Regular,Yes,No
+CAYm1,F083,Assistant Professor,Regular,Yes,No
+CAYm1,F084,Assistant Professor,Regular,Yes,No
+CAYm1,F085,Associate Professor,Regular,Yes,No
+CAYm1,F086,Professor,Regular,Yes,No
+CAYm1,F087,Professor,Regular,Yes,No
+CAYm1,F088,Professor,Regular,Yes,No
+CAYm1,F089,Assistant Professor,Regular,Yes,No
+CAYm1,F090,Professor,Regular,Yes,No
+CAYm1,F091,Assistant Professor,Regular,Yes,No
+CAYm1,F092,Professor,Contractual,Yes,No
+CAYm1,F093,Assistant Professor,Regular,Yes,No
+CAYm1,F094,Assistant Professor,Regular,Yes,No
+CAYm1,F095,Professor,Regular,Yes,No
+CAYm1,F096,Assistant Professor,Regular,Yes,No
+CAYm1,F097,Associate Professor,Regular,Yes,Yes
+CAYm1,F098,Assistant Professor,Regular,Yes,Yes
+CAYm1,F099,Associate Professor,Regular,Yes,Yes
+CAYm1,F100,Assistant Professor,Contractual,No,Yes
+CAYm1,F101,Professor,Regular,Yes,Yes
+CAYm1,F102,Assistant Professor,Regular,Yes,Yes
 CAYm2,F001,Assistant Professor,Regular,Yes,No
 CAYm2,F002,Assistant Professor,Regular,Yes,No
 CAYm2,F003,Associate Professor,Regular,Yes,No
+CAYm2,F004,Assistant Professor,Contractual,Yes,No
+CAYm2,F005,Assistant Professor,Contractual,Yes,No
+CAYm2,F006,Assistant Professor,Contractual,Yes,No
+CAYm2,F007,Assistant Professor,Regular,Yes,No
+CAYm2,F008,Assistant Professor,Regular,Yes,No
+CAYm2,F009,Professor,Regular,Yes,No
+CAYm2,F010,Assistant Professor,Regular,Yes,No
+CAYm2,F011,Assistant Professor,Regular,Yes,No
+CAYm2,F012,Assistant Professor,Regular,Yes,No
+CAYm2,F013,Associate Professor,Regular,Yes,No
+CAYm2,F014,Assistant Professor,Regular,Yes,No
+CAYm2,F015,Assistant Professor,Regular,Yes,No
+CAYm2,F016,Assistant Professor,Regular,Yes,No
+CAYm2,F017,Assistant Professor,Regular,Yes,No
+CAYm2,F018,Assistant Professor,Regular,Yes,No
+CAYm2,F019,Assistant Professor,Contractual,Yes,No
+CAYm2,F020,Associate Professor,Regular,Yes,No
+CAYm2,F021,Assistant Professor,Regular,Yes,No
+CAYm2,F022,Assistant Professor,Regular,Yes,No
+CAYm2,F023,Assistant Professor,Regular,Yes,No
+CAYm2,F024,Assistant Professor,Regular,Yes,No
+CAYm2,F025,Assistant Professor,Regular,Yes,No
+CAYm2,F026,Assistant Professor,Regular,Yes,No
+CAYm2,F027,Associate Professor,Regular,Yes,No
+CAYm2,F028,Assistant Professor,Regular,Yes,No
+CAYm2,F029,Assistant Professor,Regular,Yes,No
+CAYm2,F030,Associate Professor,Regular,Yes,No
+CAYm2,F031,Assistant Professor,Regular,Yes,No
+CAYm2,F032,Associate Professor,Contractual,No,No
+CAYm2,F033,Assistant Professor,Regular,Yes,No
+CAYm2,F034,Associate Professor,Regular,Yes,No
+CAYm2,F035,Professor,Regular,Yes,No
+CAYm2,F036,Assistant Professor,Contractual,No,No
+CAYm2,F037,Assistant Professor,Regular,Yes,No
+CAYm2,F038,Assistant Professor,Contractual,Yes,No
+CAYm2,F039,Associate Professor,Regular,Yes,No
+CAYm2,F040,Associate Professor,Contractual,No,No
+CAYm2,F041,Assistant Professor,Regular,Yes,No
+CAYm2,F042,Assistant Professor,Regular,Yes,No
+CAYm2,F043,Assistant Professor,Contractual,No,No
+CAYm2,F044,Associate Professor,Regular,Yes,No
+CAYm2,F045,Assistant Professor,Regular,Yes,No
+CAYm2,F046,Assistant Professor,Regular,Yes,No
+CAYm2,F047,Assistant Professor,Regular,Yes,No
+CAYm2,F048,Associate Professor,Regular,Yes,No
+CAYm2,F049,Assistant Professor,Regular,Yes,No
+CAYm2,F050,Assistant Professor,Regular,Yes,No
+CAYm2,F051,Assistant Professor,Contractual,No,No
+CAYm2,F052,Assistant Professor,Regular,Yes,No
+CAYm2,F053,Assistant Professor,Regular,Yes,No
+CAYm2,F054,Assistant Professor,Contractual,Yes,No
+CAYm2,F055,Associate Professor,Regular,Yes,No
+CAYm2,F056,Professor,Regular,Yes,No
+CAYm2,F057,Assistant Professor,Regular,Yes,No
+CAYm2,F058,Assistant Professor,Regular,Yes,No
+CAYm2,F059,Professor,Regular,Yes,No
+CAYm2,F060,Assistant Professor,Regular,Yes,No
+CAYm2,F061,Associate Professor,Regular,Yes,No
+CAYm2,F062,Assistant Professor,Regular,Yes,No
+CAYm2,F063,Assistant Professor,Regular,Yes,No
+CAYm2,F064,Associate Professor,Regular,Yes,No
+CAYm2,F065,Assistant Professor,Regular,Yes,No
+CAYm2,F066,Assistant Professor,Regular,Yes,No
+CAYm2,F067,Assistant Professor,Contractual,Yes,No
+CAYm2,F068,Assistant Professor,Regular,Yes,No
+CAYm2,F069,Professor,Regular,Yes,No
+CAYm2,F070,Assistant Professor,Regular,Yes,No
+CAYm2,F071,Associate Professor,Regular,Yes,No
+CAYm2,F072,Associate Professor,Regular,Yes,No
+CAYm2,F073,Assistant Professor,Contractual,Yes,No
+CAYm2,F074,Assistant Professor,Contractual,Yes,No
+CAYm2,F075,Assistant Professor,Regular,Yes,No
+CAYm2,F076,Professor,Regular,Yes,No
+CAYm2,F077,Assistant Professor,Regular,Yes,No
+CAYm2,F078,Assistant Professor,Regular,Yes,No
+CAYm2,F079,Assistant Professor,Contractual,Yes,No
+CAYm2,F080,Professor,Regular,Yes,No
+CAYm2,F081,Assistant Professor,Regular,Yes,No
+CAYm2,F082,Associate Professor,Regular,Yes,No
+CAYm2,F083,Assistant Professor,Regular,Yes,No
+CAYm2,F084,Assistant Professor,Regular,Yes,No
+CAYm2,F085,Associate Professor,Regular,Yes,No
+CAYm2,F086,Professor,Regular,Yes,No
+CAYm2,F087,Professor,Regular,Yes,No
+CAYm2,F088,Professor,Regular,Yes,No
+CAYm2,F089,Assistant Professor,Regular,Yes,No
+CAYm2,F090,Professor,Regular,Yes,No
+CAYm2,F091,Assistant Professor,Regular,Yes,No
+CAYm2,F092,Professor,Contractual,Yes,No
+CAYm2,F093,Assistant Professor,Regular,Yes,No
+CAYm2,F094,Assistant Professor,Regular,Yes,No
+CAYm2,F095,Professor,Regular,Yes,No
+CAYm2,F096,Assistant Professor,Regular,Yes,No
