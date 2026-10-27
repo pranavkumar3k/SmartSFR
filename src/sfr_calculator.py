@@ -1,3 +1,5 @@
+import pandas as pd
+
 from src.nba_rules import (
     calculate_total_students,
     calculate_sfr,
@@ -42,6 +44,21 @@ def calculate_yearly_sfr(student_df, faculty_df, academic_year):
         & (faculty["first_year_faculty"] == "No")
         & (faculty["association"].isin(["Regular", "Contractual"]))
     ]
+
+    if "joining_date" in eligible_faculty.columns:
+        joining_dates = pd.to_datetime(eligible_faculty["joining_date"])
+        eligible_faculty = eligible_faculty[
+            joining_dates.isna() | joining_dates.dt.month.lt(8)
+        ]
+
+    if "leaving_date" in eligible_faculty.columns:
+        leaving_dates = pd.to_datetime(eligible_faculty["leaving_date"])
+        stayed_through_cutoff = leaving_dates.dt.month.gt(6) | (
+            leaving_dates.dt.month.eq(6) & leaving_dates.dt.day.gt(1)
+        )
+        eligible_faculty = eligible_faculty[
+            leaving_dates.isna() | stayed_through_cutoff
+        ]
 
     faculty_count = len(eligible_faculty)
 

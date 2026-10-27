@@ -122,7 +122,7 @@ year_of_study
 student_count
 ```
 
-#### Expected faculty CSV columns
+#### Required faculty CSV columns
 
 ```text
 academic_year
@@ -132,6 +132,16 @@ association
 full_time
 first_year_faculty
 ```
+
+#### Optional faculty CSV columns
+
+```text
+joining_date
+leaving_date
+```
+
+`joining_date` and `leaving_date` are included in the sample faculty dataset. Leaving dates may be blank for current faculty.
+When these columns are provided, faculty who joined on or after August 1 or left on or before June 1 are excluded from that academic year's count. Blank dates do not exclude faculty. These columns remain optional for compatibility with existing faculty CSVs.
 
 #### Example
 
